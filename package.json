@@ -1,0 +1,21 @@
+{
+  "name": "vibrate",
+  "version": "1.0.0",
+  "description": "navigator.vibrate polyfill (silent polyfill)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gre/vibrate.git"
+  },
+  "keywords": [
+    "navigator",
+    "vibrate",
+    "mobile"
+  ],
+  "author": "renaudeau.gaetan@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gre/vibrate/issues"
+  },
+  "homepage": "https://github.com/gre/vibrate"
+}
